@@ -197,21 +197,21 @@ function openModal(titleKey) {
     const dataMap = {
         'Multiage Mastery': {
             title: 'Multiage Mastery',
-            image: 'https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=800',
+            image: 'Assets/jma5.jpg',
             body: `<p>Multiage classrooms ingeniously bring together students with diverse interests and learning styles, creating an atmosphere that enriches the academic experience for all.</p>
                    <p>Older students assist in mentoring younger peers by exemplifying advanced problem-solving skills, while younger students gain independence and confidence.</p>`,
             btnText: 'LEARN MORE ABOUT MULTIAGE CLASSROOMS →'
         },
         'Robust Honors & ICSE': {
             title: 'Robust Honors & ICSE',
-            image: 'https://images.unsplash.com/photo-1581092160607-ee22621dd758?q=80&w=800',
+            image: 'Assets/jma3.jpg',
             body: `<p>Our rigorous academic curriculum encourages students to think critically and solve complex real-world problems.</p>
                    <p>Through practical lab experimentation and guided analytical projects, students prepare for top-tier competitive opportunities.</p>`,
             btnText: 'EXPLORE OUR HONORS CURRICULUM →'
         },
         'Interactive Learning': {
             title: 'Interactive Learning',
-            image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800',
+            image: 'Assets/jma4.jpg',
             body: `<p>Collaborative environments foster team spirit and innovative thinking among students of all age groups.</p>
                    <p>Hands-on workshops, group discussions, and interactive media suites keep engagement high and learning experiential.</p>`,
             btnText: 'DISCOVER CAMPUS FACILITIES →'
