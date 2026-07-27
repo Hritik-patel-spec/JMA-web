@@ -1178,7 +1178,7 @@ body {
     width: 100% !important;
     background-color: #032142 !important; /* Force Solid Navy Blue Background */
     position: relative;
-    padding-bottom: 60px;
+    padding-bottom: 0px;
     margin-top: 0;
 }
 
