@@ -142,9 +142,7 @@ if (footerElement) {
             </div>
 
             <div class="footer-bottom">
-                <p class="disclaimer-text">
-                    Jesus and Mary Academy accepts qualified students without regard to race, color, disability, gender, sexual orientation, religion, national or ethnic origin.
-                </p>
+                <p>&copy; 2026 Jesus and Mary Academy. All Rights Reserved.</p>
                 <div class="powered-by">
                     <span>Created by Hritik Patel</span>
                 </div>
@@ -464,7 +462,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
     // 2. Footer Injection (Along with Left-Side Floating Social Buttons)
-    const footerElem = document.getElementById("footer") || document.getElementById("main-header");
+    const footerElem = document.getElementById("footer") || document.getElementById("footer");
     if (footerElem) {
         footerElem.insertAdjacentHTML('beforeend', `
             <footer class="site-footer" style="background: #1a252f; color: #fff; text-align: center; padding: 20px;">
